@@ -1,1 +1,1 @@
-Użyj lambda i map, aby przekształcić listę liczb w ich sześciany.
+Użyj lambda i map, aby stowrzyć listę kwadratów liczb.
